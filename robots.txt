@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Sitemap: https://vorotapro-krd.ru/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Sitemap: https://vorotapro-krd.ru/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Sitemap: https://vorotapro-krd.ru/sitemap.xml
