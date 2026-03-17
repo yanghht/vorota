@@ -1,0 +1,21 @@
+# robots.txt — ВоротаПро Краснодар
+# https://vorotapro-krd.ru
+
+User-agent: *
+Allow: /
+Disallow: /foto/
+
+# Карта сайта
+Sitemap: https://vorotapro-krd.ru/sitemap.xml
+
+# Яндекс
+User-agent: Yandex
+Allow: /
+Disallow: /foto/
+Sitemap: https://vorotapro-krd.ru/sitemap.xml
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /foto/
+Sitemap: https://vorotapro-krd.ru/sitemap.xml
